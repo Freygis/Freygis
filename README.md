@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<hr/>
 
 
 <h1 align="center">Hi 👋, I'm Freygis Arantes</h1>
